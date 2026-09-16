@@ -1,4 +1,4 @@
-# Malaria Cell Detection — Deployment 
+# Malaria Cell Detection
 
 Deployable Streamlit app that loads the trained MobileNetV2 model, classifies
 uploaded blood-cell images as **Parasitized** or **Uninfected**, and logs
